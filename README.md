@@ -50,6 +50,7 @@ root/
 ├── .gitignore             # Files to ignore in Git
 ├── cricket_bot.ipynb      # Jupyter Notebook for testing/experiments
 └── README.md              # Project Documentation
+```
 ## 🚀 Installation & Setup Guide
 
 Follow these steps to run the project locally.
