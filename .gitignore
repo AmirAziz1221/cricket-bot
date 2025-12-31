@@ -1,0 +1,23 @@
+/env
+__pycache__
+/frontend/node_modules
+.env
+# --- Python & Backend ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.vscode/
+
+# --- React & Frontend ---
+node_modules/
+build/
+dist/
+.DS_Store
+package-lock.json
+# (Keep package-lock.json if you want to lock versions, but usually safe to ignore for personal projects if issues arise)
+
+# --- Logs ---
+*.log
+npm-debug.log*
