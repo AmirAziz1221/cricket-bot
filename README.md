@@ -117,3 +117,4 @@ Follow these steps to run the project locally.
 * **Persistent Database:** Save chat history using PostgreSQL or MongoDB.
 * **Live Score Integration:** Connect to a live cricket API for real-time match updates.
 * **Voice Support:** Add Speech-to-Text to allow voice queries.
+---
