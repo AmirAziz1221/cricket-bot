@@ -118,3 +118,4 @@ Follow these steps to run the project locally.
 * **Live Score Integration:** Connect to a live cricket API for real-time match updates.
 * **Voice Support:** Add Speech-to-Text to allow voice queries.
 ---
+---
