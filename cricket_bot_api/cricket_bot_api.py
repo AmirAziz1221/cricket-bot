@@ -1,9 +1,7 @@
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from pydantic import BaseModel
-import uvicorn
-from cricket_bot_data import WikipediaDocumentProcessor, CricketAssistant
+
 
 # Global variable to hold the vector store
 vector_store = None
